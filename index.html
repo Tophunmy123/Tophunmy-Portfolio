@@ -47,7 +47,7 @@
         <p>I am a detail-oriented professional with experience in data analysis and administrative support. With a strong background in organizing and managing data, I excel at extracting insights, streamlining processes, and ensuring efficient office operations. Proficient in data entry, spreadsheet management, and report generation, I bring analytical thinking and organizational skills to every task. I am passionate about leveraging data for informed decision-making while ensuring a well-organized and efficient workplace.</p>
     </section>
 
-    <!-- Skills Section (Separated from Contact) -->
+    <!-- Skills Section -->
     <section id="skills">
         <h2>Skills</h2>
         <p>The skills, tools, and technologies I am really good at!</p>
